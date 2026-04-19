@@ -27,7 +27,6 @@ This project is for educational purposes as part of the foundations path on The 
    
 ## 📸 Photo Credits
 A special thank you to the creators whose fantastic photography brought the visual aesthetic of this site to life:
-- **Header Logo Icon:** [Flaticon](https://www.flaticon.com/)
 - **Hero Image:** Photo by Mahdi Bafande on [Unsplash](https://unsplash.com/photos/a-person-wearing-a-mask-LGGKSM108ts)
 - **The Classics Card:** Photo by Clement Lepetit on [Pexels](https://www.pexels.com/photo/close-up-of-a-microphone-in-a-studio-26280292/)
 - **Late Night Lo-Fi Card:** Photo by Vitaly Gariev on [Pexels](https://www.pexels.com/photo/dedicated-professional-working-late-in-office-36713441/)
